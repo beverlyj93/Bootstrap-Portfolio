@@ -1,0 +1,71 @@
+header {
+    background-color: #343a40;
+}
+
+img {
+    margin-right: 25px;
+    display: block;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    background-color: #343a40;
+    width: 100%;
+    text-align: center;
+    border-top: 8px solid #17a2b8;
+}
+
+.footer-content {
+    color: white;
+    margin-top: 25px;
+}
+
+.nav-link, .nav-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-brand {
+    padding: 25px;
+}
+
+.navbar {
+    width: 960px;
+    margin: 0 auto;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+.jumbotron {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.nav-item {
+    margin: 0px 5px;
+}
+
+.nav-item:hover {
+    background: #17a2b8;
+}
+
+.image {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.image-container {
+    width: 60%;
+}
+
+.banner {
+    position: absolute;
+    bottom: 20px;
+    background-color: #17a2b8;
+    margin: 0 auto;
+    width: 225px;
+    text-align: center;
+    color: white;
+    padding: 10px 0px;
+}
